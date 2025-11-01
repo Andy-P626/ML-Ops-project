@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/shellychang/Library/CloudStorage/GoogleDrive-shuhc121%40gmail.com/%E6%88%91%E7%9A%84%E9%9B%B2%E7%AB%AF%E7%A1%AC%E7%A2%9F/Albertschool_M2_1/as_m2-1/ML%20Ops/MLOP_project/ML-Ops-project/mlruns/268461787832711279/b4316928d1a34209925bf75808882216/artifacts
+end_time: 1762005402091
+entry_point_name: ''
+experiment_id: '268461787832711279'
+lifecycle_stage: active
+run_id: b4316928d1a34209925bf75808882216
+run_name: cnn_training_20251101_144239
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762004559846
+status: 3
+tags: []
+user_id: shellychang
